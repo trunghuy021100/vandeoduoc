@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vandeoduoc/static/css/main.b0290763.chunk.css",
+    "main.js": "/vandeoduoc/static/js/main.143a954d.chunk.js",
+    "main.js.map": "/vandeoduoc/static/js/main.143a954d.chunk.js.map",
+    "runtime-main.js": "/vandeoduoc/static/js/runtime-main.66733e16.js",
+    "runtime-main.js.map": "/vandeoduoc/static/js/runtime-main.66733e16.js.map",
+    "static/css/2.2213886a.chunk.css": "/vandeoduoc/static/css/2.2213886a.chunk.css",
+    "static/js/2.e027ff46.chunk.js": "/vandeoduoc/static/js/2.e027ff46.chunk.js",
+    "static/js/2.e027ff46.chunk.js.map": "/vandeoduoc/static/js/2.e027ff46.chunk.js.map",
+    "index.html": "/vandeoduoc/index.html",
+    "static/css/2.2213886a.chunk.css.map": "/vandeoduoc/static/css/2.2213886a.chunk.css.map",
+    "static/css/main.b0290763.chunk.css.map": "/vandeoduoc/static/css/main.b0290763.chunk.css.map",
+    "static/js/2.e027ff46.chunk.js.LICENSE.txt": "/vandeoduoc/static/js/2.e027ff46.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/vandeoduoc/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66733e16.js",
+    "static/css/2.2213886a.chunk.css",
+    "static/js/2.e027ff46.chunk.js",
+    "static/css/main.b0290763.chunk.css",
+    "static/js/main.143a954d.chunk.js"
+  ]
+}
